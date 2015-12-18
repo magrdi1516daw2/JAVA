@@ -1,7 +1,5 @@
 package ex6Uf5;
 
-
-import ex6Uf5.Factura;
 import java.util.Comparator;
 
 /*
